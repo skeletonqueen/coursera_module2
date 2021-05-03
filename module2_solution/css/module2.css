@@ -7,10 +7,6 @@ html {
     box-sizing: inherit;
 }
 
-.row {
-    width: 100%;
-}
-
 .container {
     position: relative;
 }
@@ -56,6 +52,10 @@ p {
 
 #item3 {
     background-color: #420420;
+}
+
+.row {
+    width: 100%;
 }
 
 /********** Large Devices Only **********/
